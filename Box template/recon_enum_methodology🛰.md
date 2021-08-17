@@ -8,7 +8,7 @@
 	```
 - [ ] Set the target IP to the $IP  variable
 	```bash
-	export $IP=x.x.x.x
+	export IP=x.x.x.x
 	```
 
 ## General methodology
